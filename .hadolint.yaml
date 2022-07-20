@@ -1,0 +1,9 @@
+
+override:
+ error:
+   - DL3006
+ info:
+   - DL3045
+label-schema:
+ maintainer: text
+strict-labels: true
